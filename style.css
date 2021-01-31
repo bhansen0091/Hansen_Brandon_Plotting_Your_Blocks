@@ -1,4 +1,4 @@
-/*CSS reset settings here*/
+
 * {
     margin: 0px;
     padding: 5px;
@@ -21,14 +21,14 @@
     width: 200px;
     background-color: blue;
     display: inline-block;
+    margin-right: 15px;
 }
 #main_content {
     min-height: 400px;
     width: 700px;
     background-color: red;
     display: inline-block;
-    padding: 10px;
-    margin-left: 15px;
+    padding: 10px;    
 }
 .subcontents {
     min-height: 200px;
